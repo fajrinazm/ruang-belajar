@@ -1,5 +1,5 @@
 # ruang-belajar
 Contributor:
 
-- `<yourname> - <id>`
+- 'Fajrin Azzimi - FE3071115`
 - Bob
